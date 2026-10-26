@@ -67,7 +67,7 @@ The table below lists the category-defining SaaS and hosted Strategic Portfolio 
 
 For organizations requiring total data sovereignty, zero per-seat licensing fees, custom ERP integrations, or regulatory compliance (e.g., German federal **PMflex**, ISO 21500), these active open-source solutions provide robust project, portfolio, and work management capabilities.
 
-The projects are sorted **descending by GitHub Stars_Count**.
+The projects are sorted **descending by GitHub_Stars_Count**.
 
 ### 1. ✈️ [Plane](https://github.com/makeplane/plane) [![GitHub_Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)
 - **Repository**: [`makeplane/plane`](https://github.com/makeplane/plane)  

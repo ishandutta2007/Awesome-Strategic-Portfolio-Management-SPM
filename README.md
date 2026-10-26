@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Strategic-Portfolio-Management-SPM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Strategic-Portfolio-Management-SPM?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Strategic-Portfolio-Management-SPM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Strategic-Portfolio-Management-SPM?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Strategic-Portfolio-Management-SPM/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Strategic-Portfolio-Management-SPM?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Strategic-Portfolio-Management-SPM/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Strategic-Portfolio-Management-SPM?style=flat-square&color=green" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Strategic-Portfolio-Management-SPM/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -67,79 +67,79 @@ The table below lists the category-defining SaaS and hosted Strategic Portfolio 
 
 For organizations requiring total data sovereignty, zero per-seat licensing fees, custom ERP integrations, or regulatory compliance (e.g., German federal **PMflex**, ISO 21500), these active open-source solutions provide robust project, portfolio, and work management capabilities.
 
-The projects are sorted **descending by GitHub star count**.
+The projects are sorted **descending by GitHub Stars_Count**.
 
-### 1. ✈️ [Plane](https://github.com/makeplane/plane) [![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)
+### 1. ✈️ [Plane](https://github.com/makeplane/plane) [![GitHub_Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)
 - **Repository**: [`makeplane/plane`](https://github.com/makeplane/plane)  
 - **License**: Apache-2.0 | **Primary Tech**: TypeScript, Python, React, Docker  
 - **Overview**: An open-source, modern alternative to Jira, Linear, Monday, and ClickUp. Supports multi-project workspaces, Cycles (sprints), Modules (epics/programs), roadmaps, cross-team triage boards, and fine-grained role-based governance. Ideal for software engineering organizations transitioning towards product-centric portfolio management.
 
-### 2. 💼 [Odoo (Project & Portfolio Module)](https://github.com/odoo/odoo) [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)
+### 2. 💼 [Odoo (Project & Portfolio Module)](https://github.com/odoo/odoo) [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)
 - **Repository**: [`odoo/odoo`](https://github.com/odoo/odoo)  
 - **License**: LGPL-3.0 | **Primary Tech**: Python, JavaScript, PostgreSQL  
 - **Overview**: The widely deployed open-source business application suite. The Project and Timesheet ecosystem connects directly with community portfolio extensions (such as Project Portfolio and Resource Capacity Planning), enabling enterprise-grade multi-project cost accounting, budget variance tracking, and unified CRM/HR resource orchestration.
 
-### 3. 📋 [Focalboard](https://github.com/mattermost-community/focalboard) [![GitHub stars](https://img.shields.io/github/stars/mattermost-community/focalboard?style=social&color=white)](https://github.com/mattermost-community/focalboard/stargazers)
+### 3. 📋 [Focalboard](https://github.com/mattermost-community/focalboard) [![GitHub_Stars](https://img.shields.io/github/stars/mattermost-community/focalboard?style=social&color=white)](https://github.com/mattermost-community/focalboard/stargazers)
 - **Repository**: [`mattermost-community/focalboard`](https://github.com/mattermost-community/focalboard)  
 - **License**: AGPL-3.0 / MIT | **Primary Tech**: Go, TypeScript, React  
 - **Overview**: A self-hosted, multilingual project and work coordination system from Mattermost (an open-source alternative to Trello, Notion, and Asana). Provides kanban boards, interactive tables, calendars, and timeline cards suited for coordinating portfolio initiatives and tracking deliverable milestones.
 
-### 4. 🗂️ [Wekan](https://github.com/wekan/wekan) [![GitHub stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers)
+### 4. 🗂️ [Wekan](https://github.com/wekan/wekan) [![GitHub_Stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers)
 - **Repository**: [`wekan/wekan`](https://github.com/wekan/wekan)  
 - **License**: MIT | **Primary Tech**: JavaScript, Meteor, Node.js, MongoDB  
 - **Overview**: A battle-tested open-source kanban system that supports multi-board organizational hierarchies, swimlanes, custom field formulas, webhook automation, and distributed team synchronization. Highly popular for on-premise deployments where simplicity and data privacy are paramount.
 
-### 5. 🏗️ [OpenProject](https://github.com/opf/openproject) [![GitHub stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)
+### 5. 🏗️ [OpenProject](https://github.com/opf/openproject) [![GitHub_Stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)
 - **Repository**: [`opf/openproject`](https://github.com/opf/openproject)  
 - **License**: GPL-3.0 | **Primary Tech**: Ruby on Rails, Angular, PostgreSQL  
 - **Overview**: The leading open-source enterprise project and portfolio management software. Delivers multi-level project hierarchies, portfolio overviews, interactive Gantt charts with cross-project dependency tracking, detailed budget tracking, time management, and agile boards (Kanban/Scrum/SAFe). Features specialized configurations for the German public administration standard (**PMflex**).
 
-### 6. 📌 [Planka](https://github.com/plankanban/planka) [![GitHub stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers)
+### 6. 📌 [Planka](https://github.com/plankanban/planka) [![GitHub_Stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers)
 - **Repository**: [`plankanban/planka`](https://github.com/plankanban/planka)  
 - **License**: AGPL-3.0 | **Primary Tech**: Node.js, React, Redux, PostgreSQL  
 - **Overview**: An open-source real-time collaborative tracking board. Enables PMO teams to establish cross-functional project boards, track user time, attach documentation, and manage multi-team assignments with a modern, performant interface.
 
-### 7. 🎯 [Leantime](https://github.com/Leantime/leantime) [![GitHub stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers)
+### 7. 🎯 [Leantime](https://github.com/Leantime/leantime) [![GitHub_Stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers)
 - **Repository**: [`Leantime/leantime`](https://github.com/Leantime/leantime)  
 - **License**: MIT | **Primary Tech**: PHP, JavaScript, MySQL  
 - **Overview**: A strategy-first open-source project management platform purpose-built for non-project managers and executive leadership. Features native OKR (Objectives and Key Results) cascading, an effort-versus-impact Goal Matrix for priority scoring, idea validation boards, and cross-project portfolio health dashboards.
 
-### 8. 📊 [Kanboard](https://github.com/kanboard/kanboard) [![GitHub stars](https://img.shields.io/github/stars/kanboard/kanboard?style=social&color=white)](https://github.com/kanboard/kanboard/stargazers)
+### 8. 📊 [Kanboard](https://github.com/kanboard/kanboard) [![GitHub_Stars](https://img.shields.io/github/stars/kanboard/kanboard?style=social&color=white)](https://github.com/kanboard/kanboard/stargazers)
 - **Repository**: [`kanboard/kanboard`](https://github.com/kanboard/kanboard)  
 - **License**: MIT | **Primary Tech**: PHP, SQLite / MySQL / PostgreSQL  
 - **Overview**: A minimalist, high-speed visual task and project management software. Highlights include automated actions (e.g., auto-assigning or moving tasks based on criteria), cross-project subtask rollups, cumulative flow analytics, and Gantt charts with zero operational overhead.
 
-### 9. 📈 [Ever Gauzy](https://github.com/ever-co/ever-gauzy) [![GitHub stars](https://img.shields.io/github/stars/ever-co/ever-gauzy?style=social&color=white)](https://github.com/ever-co/ever-gauzy/stargazers)
+### 9. 📈 [Ever Gauzy](https://github.com/ever-co/ever-gauzy) [![GitHub_Stars](https://img.shields.io/github/stars/ever-co/ever-gauzy?style=social&color=white)](https://github.com/ever-co/ever-gauzy/stargazers)
 - **Repository**: [`ever-co/ever-gauzy`](https://github.com/ever-co/ever-gauzy)  
 - **License**: AGPL-3.0 | **Primary Tech**: TypeScript, NestJS, Angular, TypeORM  
 - **Overview**: Open-source business and resource management platform combining ERP, project management, and resource scheduling. Delivers cross-project employee time tracking, contractor cost allocation, project budget accounting, and team capacity visualization.
 
-### 10. 🛡️ [GLPI (with ProjectBridge)](https://github.com/glpi-project/glpi) [![GitHub stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)
+### 10. 🛡️ [GLPI (with ProjectBridge)](https://github.com/glpi-project/glpi) [![GitHub_Stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)
 - **Repository**: [`glpi-project/glpi`](https://github.com/glpi-project/glpi)  
 - **License**: GPL-3.0 | **Primary Tech**: PHP, MariaDB/MySQL  
 - **Overview**: Open-source IT Service Management (ITSM) and asset management suite. When equipped with project modules and the ProjectBridge plugin, GLPI links IT change requests, service catalog demands, capital assets, and PMO initiatives into a cohesive IT portfolio governance environment.
 
-### 11. 🔴 [Redmine](https://github.com/redmine/redmine) [![GitHub stars](https://img.shields.io/github/stars/redmine/redmine?style=social&color=white)](https://github.com/redmine/redmine/stargazers)
+### 11. 🔴 [Redmine](https://github.com/redmine/redmine) [![GitHub_Stars](https://img.shields.io/github/stars/redmine/redmine?style=social&color=white)](https://github.com/redmine/redmine/stargazers)
 - **Repository**: [`redmine/redmine`](https://github.com/redmine/redmine)  
 - **License**: GPL-2.0 | **Primary Tech**: Ruby on Rails, MySQL / PostgreSQL  
 - **Overview**: A venerable, flexible open-source web-based project management system. Through modular community plugins (e.g., *Redmine Portfolio Management*, *Redmine Agile*, and *Resource Heatmaps*), Redmine provides multi-project roadmaps, cross-initiative Gantt views, and custom role security with total deployment sovereignty.
 
-### 12. ✅ [Vikunja](https://github.com/go-vikunja/vikunja) [![GitHub stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)
+### 12. ✅ [Vikunja](https://github.com/go-vikunja/vikunja) [![GitHub_Stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)
 - **Repository**: [`go-vikunja/vikunja`](https://github.com/go-vikunja/vikunja)  
 - **License**: AGPL-3.0 | **Primary Tech**: Go, Vue.js, SQLite/PostgreSQL/MySQL  
 - **Overview**: A modern, responsive self-hosted task and initiative manager. Organizes complex work into namespaces and nested projects, offering Kanban boards, interactive Gantt timelines, recurring tasks, and granular team collaboration.
 
-### 13. ⏱️ [Taiga](https://github.com/taigaio/taiga-docker) [![GitHub stars](https://img.shields.io/github/stars/taigaio/taiga-docker?style=social&color=white)](https://github.com/taigaio/taiga-docker/stargazers)
+### 13. ⏱️ [Taiga](https://github.com/taigaio/taiga-docker) [![GitHub_Stars](https://img.shields.io/github/stars/taigaio/taiga-docker?style=social&color=white)](https://github.com/taigaio/taiga-docker/stargazers)
 - **Repository**: [`taigaio/taiga-docker`](https://github.com/taigaio/taiga-docker)  
 - **License**: MPL-2.0 | **Primary Tech**: Python (Django), AngularJS, PostgreSQL, Docker  
 - **Overview**: An agile project management platform designed for agile teams, designers, and software project managers. Features epic hierarchies spanning multiple underlying projects, multi-team Scrum and Kanban boards, burndown charts, and cross-project backlog prioritization.
 
-### 14. 📐 [LibrePlan](https://github.com/LibrePlan/libreplan) [![GitHub stars](https://img.shields.io/github/stars/LibrePlan/libreplan?style=social&color=white)](https://github.com/LibrePlan/libreplan/stargazers)
+### 14. 📐 [LibrePlan](https://github.com/LibrePlan/libreplan) [![GitHub_Stars](https://img.shields.io/github/stars/LibrePlan/libreplan?style=social&color=white)](https://github.com/LibrePlan/libreplan/stargazers)
 - **Repository**: [`LibrePlan/libreplan`](https://github.com/LibrePlan/libreplan)  
 - **License**: GPL-3.0 | **Primary Tech**: Java, ZK Framework, PostgreSQL  
 - **Overview**: A web-based project planning tool engineered around an algorithmic, resource-constrained scheduling engine. Automatically balances and levels shared resources across concurrent initiatives with critical path analysis. Tailored for manufacturing, engineering, and infrastructure portfolios.
 
-### 15. 🍊 [Orangescrum Community](https://github.com/Orangescrum/opensource-community-edition) [![GitHub stars](https://img.shields.io/github/stars/Orangescrum/opensource-community-edition?style=social&color=white)](https://github.com/Orangescrum/opensource-community-edition/stargazers)
+### 15. 🍊 [Orangescrum Community](https://github.com/Orangescrum/opensource-community-edition) [![GitHub_Stars](https://img.shields.io/github/stars/Orangescrum/opensource-community-edition?style=social&color=white)](https://github.com/Orangescrum/opensource-community-edition/stargazers)
 - **Repository**: [`Orangescrum/opensource-community-edition`](https://github.com/Orangescrum/opensource-community-edition)  
 - **License**: AGPL-3.0 | **Primary Tech**: CakePHP, PostgreSQL, Docker  
 - **Overview**: A clean open-source project management platform featuring interactive Scrum/Kanban boards, project milestones, resource availability views, time tracking with billable logs, and financial invoicing without per-seat licensing fees.
@@ -222,7 +222,7 @@ Contributions, tool suggestions, and pricing updates from the global PMO and eng
 3. 📝 **Add or update entries in `README.md`** following the existing tabular or markdown formatting standards:
    - Provide exact vendor or open-source pricing (no generic terms like 'Custom' or 'Usage-based').
    - Include specific free trial terms and company scale metrics.
-   - For open-source tools, include the standard shields.io star badge (`style=social&color=white`) linking to `/stargazers`.
+   - For open-source tools, include the standard shields.io Stars_Badge (`style=social&color=white`) linking to `/stargazers`.
 4. 🚀 **Commit your changes** (`git commit -m 'feat: add new SPM open-source platform'`).
 5. 📬 **Submit a Pull Request** with a concise description of your additions.
 
